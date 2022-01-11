@@ -18,6 +18,5 @@ Talk to me about
 
 ## 📫 Contact Me
 - Discord - TheToxic#6969
-- - Email - jordan.air.god@gmail.com
+- Email - jordan.air.god@gmail.com
 - ![Profile stats](https://github-readme-stats.vercel.app/api?username=thetoxicxx&show_icons=true&theme=tokyonight)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/TheToxic/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
