@@ -15,4 +15,9 @@ Talk to me about
 - Desktop application development using **![ElectronJS](https://img.shields.io/badge/-Electron-black?&logo=electron)**
 - Project Management and CD/CI using **![Github](https://img.shields.io/badge/-Github-black?&logo=github) ![Git](https://img.shields.io/badge/-Git-black?&logo=git)**
 - Currently Learning **![MySQL](https://img.shields.io/badge/-MySQL-black?&logo=mysql) ![Laravel](https://img.shields.io/badge/-Laravel-black?&logo=laravel) ![PHP](https://img.shields.io/badge/-PHP-black?&logo=php)**
-- 
+
+## 📫 Contact Me
+- Discord - TheToxic#6969
+- - Email - jordan.air.god@gmail.com
+- ![Profile stats](https://github-readme-stats.vercel.app/api?username=thetoxicxx&show_icons=true&theme=tokyonight)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/TheToxic/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)
