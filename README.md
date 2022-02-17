@@ -20,6 +20,6 @@ Talk to me about
 - Discord - TheToxic#6969
 - Email - jordan.air.god@gmail.com
 
-![Profile stats](https://github-readme-stats.vercel.app/api?username=thetoxic-cev&show_icons=true&theme=tokyonight)
+![Profile stats](https://github-readme-stats.vercel.app/api?username=thetoxic-dev&show_icons=true&theme=tokyonight)
 
 <a style="background-color: blue !important; border-radius: 10px !important" href="https://discord.gg/TNzpUSGQfU">Join my Discord Server</button>
