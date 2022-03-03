@@ -1,6 +1,6 @@
 # TheToxic
 Founder of [Shadow Empire](https://discord.gg/TNzpUSGQfU) <br>
-Owner and Representative of [Skyforce](https://discord.gg/xJ6Qmn2AWw)
+Owner and Journalist of [Skyforce](https://discord.gg/xJ6Qmn2AWw)
 
 ## 🔍 About
 A young Italian developer. I'm not very good at programming but I want to learn. <br>
